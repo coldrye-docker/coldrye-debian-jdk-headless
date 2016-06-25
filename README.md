@@ -1,7 +1,10 @@
 
 # coldrye-debian-jdk-headless
 
-See https://hub.docker.com/r/coldrye/debian-jdk-headless/ for more information.
+## Description
+
+The images created by this are designed for creating containerized services utilizing
+the JDK, for example https://github.com/coldrye-docker/coldrye-debian-jetty.
 
 
 ## Image Releases

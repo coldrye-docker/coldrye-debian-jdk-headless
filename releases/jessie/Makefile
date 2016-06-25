@@ -3,7 +3,7 @@
 provider = coldrye
 os = debian
 release = jessie
-feature = openjdk-headless
+feature = jdk-headless
 feature_version = 8
 tag := $(shell date +"%Y%m%d%H%M%S")
 image = $(os)-$(feature)
