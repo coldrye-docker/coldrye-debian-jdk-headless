@@ -1,5 +1,6 @@
-
 # coldrye-debian-jdk-headless
+
+[![coldrye/debian-jdk-headless](http://dockeri.co/image/coldrye/debian-jdk-headless)](https://hub.docker.com/r/coldrye/debian-jdk-headless/)
 
 ## Description
 
